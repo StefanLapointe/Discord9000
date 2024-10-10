@@ -1,7 +1,7 @@
 {
   "name": "discord9000",
   "version": "1.0.0",
-  "description": "A Discord bot implementation of Robot9000 from Randall Monroe's webcomic xkcd.",
+  "description": "A Discord bot implementation of Robot9000.",
   "main": "index.js",
   "type": "module",
   "scripts": {
