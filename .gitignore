@@ -1,0 +1,8 @@
+# Dependencies.
+/node_modules
+
+# Configuration file storing sensitive information.
+/.env
+
+# Apple Desktop Services Store.
+.DS_Store

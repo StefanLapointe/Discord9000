@@ -1,0 +1,35 @@
+{
+  "name": "discord9000",
+  "version": "1.0.0",
+  "description": "A Discord bot implementation of Robot9000 from Randall Monroe's webcomic xkcd.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanLapointe/Discord9000.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "robot9000",
+    "robot9k",
+    "r9k",
+    "xkcd",
+    "randall",
+    "munroe"
+  ],
+  "author": "Stefan Lapointe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanLapointe/Discord9000/issues"
+  },
+  "homepage": "https://github.com/StefanLapointe/Discord9000#readme",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.3"
+  }
+}
