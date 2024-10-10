@@ -1,6 +1,6 @@
 # Discord9000
 
-A Discord bot implementation of Robot9000 from Randall Munroe's webcomic xkcd.
+A Discord bot implementation of Robot9000.
 
 ## Setup
 
